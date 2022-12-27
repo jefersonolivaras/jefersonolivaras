@@ -27,7 +27,6 @@
   <a href = "mailto:jefersonolivaras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jefersonolivaras" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/jefersonyehuda/code" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-  <a href="jefersonolivaras.tech" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
  
   ![Snake animation](https://github.com/jefersonolivaras/jefersonolivaras/blob/output/github-contribution-grid-snake.svg)
  

@@ -1,7 +1,7 @@
 ## Seja bem vindo ao meu perfil! Eu sou o Jeferson Oliveira.
 
 <div align="center">
-  <a href="https://github.com/jefersonolivaras">
+  <a href="jefersonolivaras.tech" target="_blank"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonolivaras&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonolivaras&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
@@ -27,7 +27,7 @@
   <a href = "mailto:jefersonolivaras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jefersonolivaras" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/jefersonyehuda/code" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-  <a href="www.jefersonolivaras.com.br" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
+  <a href="jefersonolivaras.tech" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
  
   ![Snake animation](https://github.com/jefersonolivaras/jefersonolivaras/blob/output/github-contribution-grid-snake.svg)
  

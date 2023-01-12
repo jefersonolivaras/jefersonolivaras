@@ -1,10 +1,14 @@
 ## Seja bem vindo ao meu perfil! Eu sou o Jeferson Oliveira.
 
+🤩 Veja meu portfólio **[aqui](https://jefersonolivaras.tech/)**.
+
+## Minhas Estatísticas:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-gitmasterrstaa-rickstaa.vercel.app/api?username=jefersonolivaras&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-gitmasterrstaa-rickstaa.vercel.app/api/top-langs/?username=jefersonolivaras&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefersonolivaras&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jefersonolivaras&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
+## Minhas Hard Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">

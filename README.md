@@ -3,9 +3,13 @@
 🤩 Veja meu portfólio **[aqui](https://jefersonolivaras.tech/)**.
 
 ## Minhas Estatísticas:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefersonolivaras&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jefersonolivaras&layout=compact&langs_count=7&theme=synthwave"/>
+<div style="display: flex; justify-content: space-between;">
+  <a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefersonolivaras&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/jefersonolivaras/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave"/>
+  </a>
 </div>
   
 ## Minhas Hard Skills:

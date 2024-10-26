@@ -20,8 +20,8 @@
  
 <h3>Contact Me</h3>
 <div> 
-  <a target="_blank" href="https://www.linkedin.com/in/jefersonolivaras" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.dio.me/users/jefersonolivaras" target="_blank"><img src="https://img.shields.io/badge/-DIO-%230077B5?style=for-the-badge&logo=like&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefersonolivaras" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.dio.me/users/jefersonolivaras" target="_blank"><img src="https://img.shields.io/badge/-DIO-%230077B5?style=for-the-badge&logo=like&logoColor=white" target="_blank"></a>
 </div>
 <img src="./lineBar.png" width="100%" height="8px"/>
 
@@ -36,15 +36,15 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="100"><br />
-			<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia" target="_blank">
+			<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia">
       <img src="./logo_2.png" />
       </a>
       </td>
 			<td valign="top">
 			<h3>Personal Trainer AI</h3>
 			<p>Automated personal trainer with artificial intelligence.</p>
-			<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia" target="_blank">
- 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Support Material" target="_blank">
+			<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Support Material">
 			</a>
 			</td>
 		</tr>

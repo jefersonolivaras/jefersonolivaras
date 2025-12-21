@@ -37,33 +37,10 @@
 		<tr>
 			<td align="center" valign="top" width="100">
 				<br />
-				<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia">
+				<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia](https://github.com/jefersonolivaras/clone-tabnews">
 					<img src="./logo_2.png" />
 				</a>
 			</td>
-			<td valign="top">
-				<h3>Personal Trainer AI</h3>
-				<p>Automated personal trainer with artificial intelligence.</p>
-				<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia">
-					<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Support Material">
-				</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="100">
-				<br />
-				<a href="https://github.com/jefersonolivaras/Projeto-Ecommerce-SQL">
-					<img src="./bd.png" />
-				</a>
-			</td>
-			<td valign="top">
-				<h3>Database Modeling and Manipulation with MySQL</h3>
-				<p>Creation and management of a robust relational database, with the aim of structuring information from a fictitious business system..</p>
-				<a href="https://github.com/jefersonolivaras/Projeto-Ecommerce-SQL">
-					<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Support Material">
-				</a>
-			</td>
-		</tr>
 	</tbody>
 </table>
 

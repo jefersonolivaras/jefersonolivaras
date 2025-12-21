@@ -27,21 +27,28 @@
 
 ## 📌 &nbsp;Pinned Repositories
 
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="100">
-				<br />
-				<a href="https://github.com/jefersonolivaras/prompt-challenger-personal-ia](https://github.com/jefersonolivaras/clone-tabnews">
-					<img src="./logo_2.png" />
-				</a>
-			</td>
-	</tbody>
-</table>
+<div style="
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 24px;
+  margin-top: 16px;
+  background: linear-gradient(180deg, #0d1117 0%, #0b0f14 100%);
+">
+
+  <h3 style="margin-top: 0; margin-bottom: 8px;">
+    Clone TabNews
+  </h3>
+
+  <p style="margin: 0 0 12px 0; color: #8b949e;">
+    Projeto de estudo do <strong>curso.dev</strong>, focado em arquitetura backend,
+    APIs REST, autenticação e banco de dados.
+  </p>
+
+  <a href="https://github.com/jefersonolivaras/clone-tabnews"
+     style="color: #58a6ff; text-decoration: none; font-weight: 500;">
+    → Ver repositório
+  </a>
+
+</div>
 
 <img src="./lineBar.png" width="100%" height="8px"/>
